@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "sandworm_mod:root": {
-    "criteria": {
-      "requirement": "2025-01-01 23:16:03 +0000"
-    },
-    "done": true
-  },
   "dungeons_arise:wda_root": {
     "criteria": {
       "WDA": "2025-01-01 23:16:01 +0000"
@@ -32,6 +26,12 @@
   "cataclysm:root": {
     "criteria": {
       "custom_test_name": "2025-01-01 23:16:01 +0000"
+    },
+    "done": true
+  },
+  "sandworm_mod:root": {
+    "criteria": {
+      "requirement": "2025-01-01 23:16:03 +0000"
     },
     "done": true
   },

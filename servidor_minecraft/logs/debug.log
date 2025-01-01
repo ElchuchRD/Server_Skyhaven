@@ -11581,3 +11581,726 @@ java.lang.NullPointerException: null
 [01Jan2025 23:41:58.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14943 chunks (92.65%), ETA: 0:01:51, Rate: 10.7 cps, Current: -38, 19
 [01Jan2025 23:42:00.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14953 chunks (92.71%), ETA: 0:01:50, Rate: 10.7 cps, Current: -39, 25
 [01Jan2025 23:42:01.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14965 chunks (92.78%), ETA: 0:01:53, Rate: 10.3 cps, Current: -37, 0
+[01Jan2025 23:42:02.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14972 chunks (92.83%), ETA: 0:01:53, Rate: 10.2 cps, Current: -37, 4
+[01Jan2025 23:42:04.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14983 chunks (92.89%), ETA: 0:01:53, Rate: 10.1 cps, Current: -37, 9
+[01Jan2025 23:42:05.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 14992 chunks (92.95%), ETA: 0:01:54, Rate: 9.9 cps, Current: -36, 12
+[01Jan2025 23:42:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15004 chunks (93.02%), ETA: 0:01:51, Rate: 10.1 cps, Current: -36, 18
+[01Jan2025 23:42:07.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15014 chunks (93.09%), ETA: 0:01:52, Rate: 9.9 cps, Current: -37, 25
+[01Jan2025 23:42:08.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15025 chunks (93.16%), ETA: 0:01:51, Rate: 9.9 cps, Current: -37, 30
+[01Jan2025 23:42:09.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15041 chunks (93.25%), ETA: 0:01:47, Rate: 10.1 cps, Current: -35, 10
+[01Jan2025 23:42:10.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15057 chunks (93.35%), ETA: 0:01:46, Rate: 10.1 cps, Current: -35, 18
+[01Jan2025 23:42:11.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15077 chunks (93.48%), ETA: 0:01:40, Rate: 10.4 cps, Current: -35, 24
+[01Jan2025 23:42:13.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15511 chunks (96.17%), ETA: 0:00:56, Rate: 10.9 cps, Current: -35, 1
+[01Jan2025 23:42:15.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15541 chunks (96.35%), ETA: 0:00:55, Rate: 10.6 cps, Current: -51, 32
+[01Jan2025 23:42:16.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15568 chunks (96.52%), ETA: 0:00:54, Rate: 10.3 cps, Current: -52, 33
+[01Jan2025 23:42:17.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15572 chunks (96.55%), ETA: 0:00:55, Rate: 10.1 cps, Current: -51, 35
+[01Jan2025 23:42:19.390] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15577 chunks (96.58%), ETA: 0:00:57, Rate: 9.5 cps, Current: -48, 42
+[01Jan2025 23:42:20.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15607 chunks (96.76%), ETA: 0:00:55, Rate: 9.3 cps, Current: -48, 31
+[01Jan2025 23:42:21.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15636 chunks (96.94%), ETA: 0:00:53, Rate: 9.2 cps, Current: -48, 39
+[01Jan2025 23:42:22.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15642 chunks (96.98%), ETA: 0:00:54, Rate: 8.9 cps, Current: -47, 36
+[01Jan2025 23:42:24.133] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15668 chunks (97.14%), ETA: 0:00:52, Rate: 8.8 cps, Current: -46, 32
+[01Jan2025 23:42:25.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15696 chunks (97.32%), ETA: 0:00:48, Rate: 8.9 cps, Current: -46, 39
+[01Jan2025 23:42:26.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15703 chunks (97.36%), ETA: 0:00:48, Rate: 8.8 cps, Current: -45, 35
+[01Jan2025 23:42:27.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15729 chunks (97.52%), ETA: 0:00:46, Rate: 8.7 cps, Current: -45, 40
+[01Jan2025 23:42:28.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15734 chunks (97.55%), ETA: 0:00:47, Rate: 8.3 cps, Current: -44, 34
+[01Jan2025 23:42:29.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15762 chunks (97.72%), ETA: 0:00:43, Rate: 8.4 cps, Current: -44, 38
+[01Jan2025 23:42:30.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15769 chunks (97.77%), ETA: 0:00:42, Rate: 8.4 cps, Current: -43, 33
+[01Jan2025 23:42:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15795 chunks (97.93%), ETA: 0:00:39, Rate: 8.5 cps, Current: -43, 43
+[01Jan2025 23:42:32.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15804 chunks (97.98%), ETA: 0:00:38, Rate: 8.5 cps, Current: -42, 36
+[01Jan2025 23:42:33.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15829 chunks (98.14%), ETA: 0:00:35, Rate: 8.5 cps, Current: -41, 32
+[01Jan2025 23:42:34.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15839 chunks (98.20%), ETA: 0:00:34, Rate: 8.5 cps, Current: -41, 41
+[01Jan2025 23:42:35.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15859 chunks (98.33%), ETA: 0:00:32, Rate: 8.3 cps, Current: -40, 32
+[01Jan2025 23:42:37.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15869 chunks (98.39%), ETA: 0:00:31, Rate: 8.4 cps, Current: -40, 38
+[01Jan2025 23:42:38.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15889 chunks (98.51%), ETA: 0:00:29, Rate: 8.3 cps, Current: -40, 45
+[01Jan2025 23:42:39.293] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15893 chunks (98.54%), ETA: 0:00:30, Rate: 7.8 cps, Current: -39, 32
+[01Jan2025 23:42:40.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15905 chunks (98.61%), ETA: 0:00:29, Rate: 7.7 cps, Current: -39, 40
+[01Jan2025 23:42:41.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15929 chunks (98.76%), ETA: 0:00:27, Rate: 7.3 cps, Current: -38, 41
+[01Jan2025 23:42:42.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15939 chunks (98.82%), ETA: 0:00:28, Rate: 6.6 cps, Current: -38, 48
+[01Jan2025 23:42:43.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15962 chunks (98.96%), ETA: 0:00:24, Rate: 6.9 cps, Current: -36, 35
+[01Jan2025 23:42:44.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15984 chunks (99.10%), ETA: 0:00:20, Rate: 7.0 cps, Current: -37, 43
+[01Jan2025 23:42:46.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 15995 chunks (99.17%), ETA: 0:00:18, Rate: 7.2 cps, Current: -37, 48
+[01Jan2025 23:42:47.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16020 chunks (99.32%), ETA: 0:00:14, Rate: 7.6 cps, Current: -35, 40
+[01Jan2025 23:42:48.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16085 chunks (99.73%), ETA: 0:00:04, Rate: 9.3 cps, Current: -35, 50
+[01Jan2025 23:42:49.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16095 chunks (99.79%), ETA: 0:00:03, Rate: 9.3 cps, Current: -51, 37
+[01Jan2025 23:42:50.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16104 chunks (99.85%), ETA: 0:00:02, Rate: 9.5 cps, Current: -45, 43
+[01Jan2025 23:42:51.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16112 chunks (99.89%), ETA: 0:00:01, Rate: 9.4 cps, Current: -41, 47
+[01Jan2025 23:42:52.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 16122 chunks (99.96%), ETA: 0:00:00, Rate: 9.5 cps, Current: -37, 51
+[01Jan2025 23:42:53.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task finished for minecraft:overworld. Processed: 16129 chunks (100.00%), Total time: 0:24:42
+[01Jan2025 23:44:35.613] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:44:35.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:48:02.631] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 91 messages to dispatch.
+[01Jan2025 23:48:02.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_action-0' to 'calio:channel' sequence 0
+[01Jan2025 23:48:02.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_condition-0' to 'calio:channel' sequence 1
+[01Jan2025 23:48:02.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_biome_condition-0' to 'calio:channel' sequence 2
+[01Jan2025 23:48:02.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_action-0' to 'calio:channel' sequence 3
+[01Jan2025 23:48:02.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_condition-0' to 'calio:channel' sequence 4
+[01Jan2025 23:48:02.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_damage_condition-0' to 'calio:channel' sequence 5
+[01Jan2025 23:48:02.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_action-0' to 'calio:channel' sequence 6
+[01Jan2025 23:48:02.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_condition-0' to 'calio:channel' sequence 7
+[01Jan2025 23:48:03.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_fluid_condition-0' to 'calio:channel' sequence 8
+[01Jan2025 23:48:03.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_action-0' to 'calio:channel' sequence 9
+[01Jan2025 23:48:03.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_condition-0' to 'calio:channel' sequence 10
+[01Jan2025 23:48:03.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_modifier-0' to 'calio:channel' sequence 11
+[01Jan2025 23:48:03.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-0' to 'calio:channel' sequence 12
+[01Jan2025 23:48:03.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:global_power_set-0' to 'calio:channel' sequence 13
+[01Jan2025 23:48:03.342] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:layers-0' to 'calio:channel' sequence 14
+[01Jan2025 23:48:03.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:origins-0' to 'calio:channel' sequence 15
+[01Jan2025 23:48:03.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 16
+[01Jan2025 23:48:03.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 17
+[01Jan2025 23:48:03.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 18
+[01Jan2025 23:48:03.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 19
+[01Jan2025 23:48:03.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:badge_factory' to 'fml:handshake' sequence 20
+[01Jan2025 23:48:03.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 21
+[01Jan2025 23:48:03.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:fluid_condition' to 'fml:handshake' sequence 22
+[01Jan2025 23:48:03.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:gas' to 'fml:handshake' sequence 23
+[01Jan2025 23:48:03.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 24
+[01Jan2025 23:48:03.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_condition' to 'fml:handshake' sequence 25
+[01Jan2025 23:48:03.942] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 26
+[01Jan2025 23:48:03.992] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_action' to 'fml:handshake' sequence 27
+[01Jan2025 23:48:04.042] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_biome_condition' to 'fml:handshake' sequence 28
+[01Jan2025 23:48:04.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_action' to 'fml:handshake' sequence 29
+[01Jan2025 23:48:04.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 30
+[01Jan2025 23:48:04.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:origins' to 'fml:handshake' sequence 31
+[01Jan2025 23:48:04.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry witherstormmod:symbiont_spells' to 'fml:handshake' sequence 32
+[01Jan2025 23:48:04.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_damage_condition' to 'fml:handshake' sequence 33
+[01Jan2025 23:48:04.342] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:power_factory' to 'fml:handshake' sequence 34
+[01Jan2025 23:48:04.392] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_action' to 'fml:handshake' sequence 35
+[01Jan2025 23:48:04.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 36
+[01Jan2025 23:48:04.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_condition' to 'fml:handshake' sequence 37
+[01Jan2025 23:48:04.542] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:pigment' to 'fml:handshake' sequence 38
+[01Jan2025 23:48:04.592] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 39
+[01Jan2025 23:48:04.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_condition' to 'fml:handshake' sequence 40
+[01Jan2025 23:48:04.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 41
+[01Jan2025 23:48:04.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 42
+[01Jan2025 23:48:04.792] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_condition' to 'fml:handshake' sequence 43
+[01Jan2025 23:48:04.842] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 44
+[01Jan2025 23:48:04.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_action' to 'fml:handshake' sequence 45
+[01Jan2025 23:48:04.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_action' to 'fml:handshake' sequence 46
+[01Jan2025 23:48:04.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_modifier' to 'fml:handshake' sequence 47
+[01Jan2025 23:48:05.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 48
+[01Jan2025 23:48:05.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_condition' to 'fml:handshake' sequence 49
+[01Jan2025 23:48:05.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:infuse_type' to 'fml:handshake' sequence 50
+[01Jan2025 23:48:05.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_action' to 'fml:handshake' sequence 51
+[01Jan2025 23:48:05.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:biome_condition' to 'fml:handshake' sequence 52
+[01Jan2025 23:48:05.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:module' to 'fml:handshake' sequence 53
+[01Jan2025 23:48:05.342] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 54
+[01Jan2025 23:48:05.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_power' to 'fml:handshake' sequence 55
+[01Jan2025 23:48:05.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_action' to 'fml:handshake' sequence 56
+[01Jan2025 23:48:05.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 57
+[01Jan2025 23:48:05.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 58
+[01Jan2025 23:48:05.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:global_power_set' to 'fml:handshake' sequence 59
+[01Jan2025 23:48:05.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 60
+[01Jan2025 23:48:05.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 61
+[01Jan2025 23:48:05.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 62
+[01Jan2025 23:48:05.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_condition' to 'fml:handshake' sequence 63
+[01Jan2025 23:48:05.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_condition' to 'fml:handshake' sequence 64
+[01Jan2025 23:48:05.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 65
+[01Jan2025 23:48:05.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:modifier' to 'fml:handshake' sequence 66
+[01Jan2025 23:48:05.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_condition' to 'fml:handshake' sequence 67
+[01Jan2025 23:48:06.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_fluid_condition' to 'fml:handshake' sequence 68
+[01Jan2025 23:48:06.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:slurry' to 'fml:handshake' sequence 69
+[01Jan2025 23:48:06.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:damage_condition' to 'fml:handshake' sequence 70
+[01Jan2025 23:48:06.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_action' to 'fml:handshake' sequence 71
+[01Jan2025 23:48:06.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry calio:player_ability' to 'fml:handshake' sequence 72
+[01Jan2025 23:48:06.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config illagerinvasion-server.toml' to 'fml:handshake' sequence 73
+[01Jan2025 23:48:06.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apoli-server.toml' to 'fml:handshake' sequence 74
+[01Jan2025 23:48:06.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/world.toml' to 'fml:handshake' sequence 75
+[01Jan2025 23:48:06.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config alekiships-server.toml' to 'fml:handshake' sequence 76
+[01Jan2025 23:48:06.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config witherstormmod-server.toml' to 'fml:handshake' sequence 77
+[01Jan2025 23:48:06.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/general.toml' to 'fml:handshake' sequence 78
+[01Jan2025 23:48:06.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generators.toml' to 'fml:handshake' sequence 79
+[01Jan2025 23:48:06.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 80
+[01Jan2025 23:48:06.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generator-storage.toml' to 'fml:handshake' sequence 81
+[01Jan2025 23:48:06.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 82
+[01Jan2025 23:48:06.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 83
+[01Jan2025 23:48:06.842] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generators-gear.toml' to 'fml:handshake' sequence 84
+[01Jan2025 23:48:06.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 85
+[01Jan2025 23:48:06.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/gear.toml' to 'fml:handshake' sequence 86
+[01Jan2025 23:48:06.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/tiers.toml' to 'fml:handshake' sequence 87
+[01Jan2025 23:48:07.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 88
+[01Jan2025 23:48:07.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/machine-storage.toml' to 'fml:handshake' sequence 89
+[01Jan2025 23:48:07.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/machine-usage.toml' to 'fml:handshake' sequence 90
+[01Jan2025 23:48:32.345] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6859c2c9[id=<null>,name=thechuch,properties={},legacy=false] (/127.216.22.88:50959) lost connection: Disconnected
+[01Jan2025 23:48:44.860] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 91 messages to dispatch.
+[01Jan2025 23:48:44.892] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_action-0' to 'calio:channel' sequence 0
+[01Jan2025 23:48:44.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_bientity_condition-0' to 'calio:channel' sequence 1
+[01Jan2025 23:48:44.981] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 0
+[01Jan2025 23:48:44.981] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:44.981] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[01Jan2025 23:48:44.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_biome_condition-0' to 'calio:channel' sequence 2
+[01Jan2025 23:48:45.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_action-0' to 'calio:channel' sequence 3
+[01Jan2025 23:48:45.048] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 1
+[01Jan2025 23:48:45.049] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.049] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[01Jan2025 23:48:45.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_block_condition-0' to 'calio:channel' sequence 4
+[01Jan2025 23:48:45.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 2
+[01Jan2025 23:48:45.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.116] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[01Jan2025 23:48:45.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 3
+[01Jan2025 23:48:45.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.117] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[01Jan2025 23:48:45.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_damage_condition-0' to 'calio:channel' sequence 5
+[01Jan2025 23:48:45.181] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 4
+[01Jan2025 23:48:45.181] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.181] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[01Jan2025 23:48:45.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_action-0' to 'calio:channel' sequence 6
+[01Jan2025 23:48:45.242] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_entity_condition-0' to 'calio:channel' sequence 7
+[01Jan2025 23:48:45.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 5
+[01Jan2025 23:48:45.246] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.247] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[01Jan2025 23:48:45.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_fluid_condition-0' to 'calio:channel' sequence 8
+[01Jan2025 23:48:45.312] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 6
+[01Jan2025 23:48:45.312] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.312] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[01Jan2025 23:48:45.313] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 7
+[01Jan2025 23:48:45.313] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.313] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[01Jan2025 23:48:45.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_action-0' to 'calio:channel' sequence 9
+[01Jan2025 23:48:45.380] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 8
+[01Jan2025 23:48:45.380] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.380] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[01Jan2025 23:48:45.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_item_condition-0' to 'calio:channel' sequence 10
+[01Jan2025 23:48:45.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_modifier-0' to 'calio:channel' sequence 11
+[01Jan2025 23:48:45.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 9
+[01Jan2025 23:48:45.448] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.448] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[01Jan2025 23:48:45.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:configured_power-0' to 'calio:channel' sequence 12
+[01Jan2025 23:48:45.510] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 10
+[01Jan2025 23:48:45.511] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.511] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[01Jan2025 23:48:45.515] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 11
+[01Jan2025 23:48:45.515] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.515] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[01Jan2025 23:48:45.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-apoli:global_power_set-0' to 'calio:channel' sequence 13
+[01Jan2025 23:48:45.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:layers-0' to 'calio:channel' sequence 14
+[01Jan2025 23:48:45.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'CALIO-S2CLDRP-origins:origins-0' to 'calio:channel' sequence 15
+[01Jan2025 23:48:45.647] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 12
+[01Jan2025 23:48:45.647] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.647] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[01Jan2025 23:48:45.690] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 13
+[01Jan2025 23:48:45.690] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.690] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[01Jan2025 23:48:45.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 16
+[01Jan2025 23:48:45.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 14
+[01Jan2025 23:48:45.707] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.707] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[01Jan2025 23:48:45.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 17
+[01Jan2025 23:48:45.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel calio:channel with index 15
+[01Jan2025 23:48:45.741] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type io.github.edwinmindcraft.calio.common.network.packet.C2SAcknowledgePacket
+[01Jan2025 23:48:45.742] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[01Jan2025 23:48:45.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 18
+[01Jan2025 23:48:45.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[01Jan2025 23:48:45.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[01Jan2025 23:48:45.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [mowziesmobs, netherexp, additionalentityattributes, geckolib, elysium_api, botarium, playeranimator, palladiumcore, jei, illagerinvasion, caelus, immersive_aircraft, apoli, sophisticatedcore, clumps, citadel, aaa_particles, yungsapi, crackerslib, mixinextras, sophisticatedbackpacks, sandworm_mod, cadmus, chat_heads, puzzlesaccessapi, betterfortresses, forge, tlskincape, embeddium, rubidium, athena, dungeons_arise, minecraft, tht, aviator_dream, alexscaves, voicechat, sound_physics_remastered, mousetweaks, alekiships, chunky, vc_gliders, resourcefulconfig, lionfishapi, calio, philipsruins, notenoughanimations, cataclysm, curios, mekanism, mekanismgenerators, flywheel, create, origins, witherstormmod, betterstrongholds, rootoffear, resourcefullib, architectury, mr_limesplatus_ending, animatedmobsmod, puzzleslib, lodestone, illageandspillage, createaddition, wwoo_forge, ad_astra]
+[01Jan2025 23:48:45.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 19
+[01Jan2025 23:48:45.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexscaves:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'rootoffear:messages' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'calio:channel' : Version test of '1.2' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'vc_gliders:main' : Version test of '1.0.0' from client : ACCEPTED
+[01Jan2025 23:48:45.842] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'illageandspillage:main' : Version test of '2' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'animatedmobsmod:animatedmobsmod' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanism:mekanism' : Version test of '10.4.13' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tht:tht' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'witherstormmod:main' : Version test of '4.0' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lodestone:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createaddition:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mekanismgenerators:mekanismgenerators' : Version test of '10.4.13' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ic_air:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.843] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'origins:network' : Version test of '1.2' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ad_astra:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cadmus:main' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apoli:channel' : Version test of '1.3' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alekiships:network' : Version test of '1.0.14' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[01Jan2025 23:48:45.844] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[01Jan2025 23:48:45.892] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:badge_factory' to 'fml:handshake' sequence 20
+[01Jan2025 23:48:45.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[01Jan2025 23:48:45.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:45.901] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:45.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 21
+[01Jan2025 23:48:45.987] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[01Jan2025 23:48:45.987] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:45.987] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:45.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:fluid_condition' to 'fml:handshake' sequence 22
+[01Jan2025 23:48:45.992] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[01Jan2025 23:48:45.992] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:45.992] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.042] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:gas' to 'fml:handshake' sequence 23
+[01Jan2025 23:48:46.047] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[01Jan2025 23:48:46.047] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.047] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 24
+[01Jan2025 23:48:46.109] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[01Jan2025 23:48:46.109] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.110] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.114] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[01Jan2025 23:48:46.114] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.114] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_condition' to 'fml:handshake' sequence 25
+[01Jan2025 23:48:46.175] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[01Jan2025 23:48:46.175] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.175] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.192] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 26
+[01Jan2025 23:48:46.236] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[01Jan2025 23:48:46.236] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.236] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_action' to 'fml:handshake' sequence 27
+[01Jan2025 23:48:46.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_biome_condition' to 'fml:handshake' sequence 28
+[01Jan2025 23:48:46.303] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[01Jan2025 23:48:46.303] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.303] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_action' to 'fml:handshake' sequence 29
+[01Jan2025 23:48:46.366] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[01Jan2025 23:48:46.366] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.366] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 30
+[01Jan2025 23:48:46.391] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[01Jan2025 23:48:46.391] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.391] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[01Jan2025 23:48:46.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.438] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry origins:origins' to 'fml:handshake' sequence 31
+[01Jan2025 23:48:46.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry witherstormmod:symbiont_spells' to 'fml:handshake' sequence 32
+[01Jan2025 23:48:46.499] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[01Jan2025 23:48:46.499] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.499] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_damage_condition' to 'fml:handshake' sequence 33
+[01Jan2025 23:48:46.563] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[01Jan2025 23:48:46.563] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.563] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.563] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[01Jan2025 23:48:46.563] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.563] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:power_factory' to 'fml:handshake' sequence 34
+[01Jan2025 23:48:46.622] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[01Jan2025 23:48:46.623] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.623] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_action' to 'fml:handshake' sequence 35
+[01Jan2025 23:48:46.689] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[01Jan2025 23:48:46.689] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.689] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 36
+[01Jan2025 23:48:46.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:entity_condition' to 'fml:handshake' sequence 37
+[01Jan2025 23:48:46.774] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[01Jan2025 23:48:46.774] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.774] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:pigment' to 'fml:handshake' sequence 38
+[01Jan2025 23:48:46.812] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[01Jan2025 23:48:46.812] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.813] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 39
+[01Jan2025 23:48:46.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[01Jan2025 23:48:46.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.841] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[01Jan2025 23:48:46.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_condition' to 'fml:handshake' sequence 40
+[01Jan2025 23:48:46.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 41
+[01Jan2025 23:48:46.977] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 39
+[01Jan2025 23:48:46.977] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 39 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:46.977] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:46.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 42
+[01Jan2025 23:48:47.032] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 40
+[01Jan2025 23:48:47.032] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 40 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.032] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_condition' to 'fml:handshake' sequence 43
+[01Jan2025 23:48:47.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 41
+[01Jan2025 23:48:47.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 41 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.054] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 44
+[01Jan2025 23:48:47.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 42
+[01Jan2025 23:48:47.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 42 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.116] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:block_action' to 'fml:handshake' sequence 45
+[01Jan2025 23:48:47.166] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 43
+[01Jan2025 23:48:47.167] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 43 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.167] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_block_action' to 'fml:handshake' sequence 46
+[01Jan2025 23:48:47.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 44
+[01Jan2025 23:48:47.191] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 44 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.192] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_modifier' to 'fml:handshake' sequence 47
+[01Jan2025 23:48:47.284] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 45
+[01Jan2025 23:48:47.285] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 45 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.285] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 48
+[01Jan2025 23:48:47.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_condition' to 'fml:handshake' sequence 49
+[01Jan2025 23:48:47.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 46
+[01Jan2025 23:48:47.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 46 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.355] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:infuse_type' to 'fml:handshake' sequence 50
+[01Jan2025 23:48:47.391] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 47
+[01Jan2025 23:48:47.391] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 47 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.392] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_bientity_action' to 'fml:handshake' sequence 51
+[01Jan2025 23:48:47.445] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 48
+[01Jan2025 23:48:47.445] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 48 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.445] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.464] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 49
+[01Jan2025 23:48:47.464] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 49 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.464] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:biome_condition' to 'fml:handshake' sequence 52
+[01Jan2025 23:48:47.532] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 50
+[01Jan2025 23:48:47.532] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 50 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.532] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:module' to 'fml:handshake' sequence 53
+[01Jan2025 23:48:47.541] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 51
+[01Jan2025 23:48:47.541] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 51 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.541] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 54
+[01Jan2025 23:48:47.626] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 52
+[01Jan2025 23:48:47.626] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 52 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.626] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_power' to 'fml:handshake' sequence 55
+[01Jan2025 23:48:47.657] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 53
+[01Jan2025 23:48:47.657] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 53 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.657] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_action' to 'fml:handshake' sequence 56
+[01Jan2025 23:48:47.711] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 54
+[01Jan2025 23:48:47.711] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 54 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.711] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.741] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 57
+[01Jan2025 23:48:47.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 58
+[01Jan2025 23:48:47.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:global_power_set' to 'fml:handshake' sequence 59
+[01Jan2025 23:48:47.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 55
+[01Jan2025 23:48:47.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 55 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.856] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 60
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 56
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 56 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 57
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 57 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 58
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 58 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.891] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 61
+[01Jan2025 23:48:47.975] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 59
+[01Jan2025 23:48:47.975] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 59 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:47.975] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:47.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 62
+[01Jan2025 23:48:48.028] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 60
+[01Jan2025 23:48:48.028] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 60 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.028] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:item_condition' to 'fml:handshake' sequence 63
+[01Jan2025 23:48:48.042] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 61
+[01Jan2025 23:48:48.042] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 61 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.042] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.092] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_entity_condition' to 'fml:handshake' sequence 64
+[01Jan2025 23:48:48.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 65
+[01Jan2025 23:48:48.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 62
+[01Jan2025 23:48:48.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 62 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.143] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:modifier' to 'fml:handshake' sequence 66
+[01Jan2025 23:48:48.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:bientity_condition' to 'fml:handshake' sequence 67
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 63
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 63 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 64
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 64 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 65
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 65 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.258] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_fluid_condition' to 'fml:handshake' sequence 68
+[01Jan2025 23:48:48.324] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 66
+[01Jan2025 23:48:48.324] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 66 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.325] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry mekanism:slurry' to 'fml:handshake' sequence 69
+[01Jan2025 23:48:48.342] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 67
+[01Jan2025 23:48:48.342] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 67 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.342] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.385] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 68
+[01Jan2025 23:48:48.385] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 68 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.385] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:damage_condition' to 'fml:handshake' sequence 70
+[01Jan2025 23:48:48.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry apoli:configured_item_action' to 'fml:handshake' sequence 71
+[01Jan2025 23:48:48.450] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 69
+[01Jan2025 23:48:48.450] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 69 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.450] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.492] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry calio:player_ability' to 'fml:handshake' sequence 72
+[01Jan2025 23:48:48.526] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 70
+[01Jan2025 23:48:48.526] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 70 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 71
+[01Jan2025 23:48:48.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 71 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:48.527] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:48.541] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config illagerinvasion-server.toml' to 'fml:handshake' sequence 73
+[01Jan2025 23:48:48.591] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config apoli-server.toml' to 'fml:handshake' sequence 74
+[01Jan2025 23:48:48.641] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/world.toml' to 'fml:handshake' sequence 75
+[01Jan2025 23:48:48.691] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config alekiships-server.toml' to 'fml:handshake' sequence 76
+[01Jan2025 23:48:48.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config witherstormmod-server.toml' to 'fml:handshake' sequence 77
+[01Jan2025 23:48:48.791] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/general.toml' to 'fml:handshake' sequence 78
+[01Jan2025 23:48:48.841] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generators.toml' to 'fml:handshake' sequence 79
+[01Jan2025 23:48:48.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 80
+[01Jan2025 23:48:48.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generator-storage.toml' to 'fml:handshake' sequence 81
+[01Jan2025 23:48:48.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 82
+[01Jan2025 23:48:49.041] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 83
+[01Jan2025 23:48:49.091] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/generators-gear.toml' to 'fml:handshake' sequence 84
+[01Jan2025 23:48:49.141] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 85
+[01Jan2025 23:48:49.191] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/gear.toml' to 'fml:handshake' sequence 86
+[01Jan2025 23:48:49.241] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/tiers.toml' to 'fml:handshake' sequence 87
+[01Jan2025 23:48:49.291] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 88
+[01Jan2025 23:48:49.341] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/machine-storage.toml' to 'fml:handshake' sequence 89
+[01Jan2025 23:48:49.391] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config Mekanism/machine-usage.toml' to 'fml:handshake' sequence 90
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 72
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 72 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 73
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 73 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 74
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 74 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 75
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 75 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 76
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 76 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.915] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.916] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 77
+[01Jan2025 23:48:51.916] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 77 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.916] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.916] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 78
+[01Jan2025 23:48:51.916] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 78 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.916] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 79
+[01Jan2025 23:48:51.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 79 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 80
+[01Jan2025 23:48:51.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 80 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.958] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 81
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 81 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 82
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 82 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 83
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 83 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 84
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 84 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 85
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 85 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 86
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 86 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 87
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 87 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 88
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 88 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 89
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 89 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 90
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 90 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[01Jan2025 23:48:51.959] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[01Jan2025 23:48:51.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[01Jan2025 23:48:52.065] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thechuch[/127.216.22.88:55421] logged in with entity id 30300 at (9.524359894274486, 72.0, -9.250042758623046)
+[01Jan2025 23:48:52.065] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@1d4adb42 into net.minecraft.network.Connection@169111ef
+[01Jan2025 23:48:52.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch joined the game
+[01Jan2025 23:48:52.206] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[01Jan2025 23:48:52.207] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of thechuch: {disabled=false, disconnected=true, uuid=172e835a-d3c7-310a-b4ea-c1b0b083acd4, name=thechuch, group=null}
+[01Jan2025 23:48:52.211] [Thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file witherstormmod-server.toml changed, sending notifies
+[01Jan2025 23:48:52.213] [Thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file witherstormmod-server.toml changed, sending notifies
+[01Jan2025 23:48:52.216] [Thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file witherstormmod-server.toml changed, sending notifies
+[01Jan2025 23:48:52.217] [Thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file witherstormmod-server.toml changed, sending notifies
+[01Jan2025 23:48:52.253] [Thread-1/DEBUG] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Config file witherstormmod-server.toml changed, sending notifies
+[01Jan2025 23:48:52.347] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thechuch (18)
+[01Jan2025 23:48:52.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to thechuch
+[01Jan2025 23:48:52.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with thechuch
+[01Jan2025 23:48:52.347] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 1 volume categories with thechuch
+[01Jan2025 23:48:52.348] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thechuch
+[01Jan2025 23:48:53.402] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[01Jan2025 23:48:53.402] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[01Jan2025 23:48:53.402] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.alexander.rootoffear.entities.Wilted from class com.alexander.rootoffear.entities.LightExtinguisher
+[01Jan2025 23:49:16.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[01Jan2025 23:49:35.630] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Jan2025 23:49:35.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Jan2025 23:49:46.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1678 chunks (0.00%), ETA: 1747:26:45, Rate: 6.2 cps, Current: 61, 28
+[01Jan2025 23:49:47.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1683 chunks (0.00%), ETA: 2141:16:47, Rate: 5.1 cps, Current: 60, 27
+[01Jan2025 23:49:49.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1692 chunks (0.00%), ETA: 2141:47:46, Rate: 5.1 cps, Current: 58, 30
+[01Jan2025 23:49:50.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1736 chunks (0.00%), ETA: 2119:34:10, Rate: 5.1 cps, Current: 62, 30
+[01Jan2025 23:49:51.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 1744 chunks (0.00%), ETA: 1913:14:32, Rate: 5.7 cps, Current: 62, 22
+[01Jan2025 23:49:52.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2780 chunks (0.01%), ETA: 1158:07:55, Rate: 9.4 cps, Current: 57, 31
+[01Jan2025 23:49:54.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2784 chunks (0.01%), ETA: 1313:36:38, Rate: 8.3 cps, Current: 62, -18
+[01Jan2025 23:49:55.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2789 chunks (0.01%), ETA: 1459:03:08, Rate: 7.4 cps, Current: 62, 31
+[01Jan2025 23:49:56.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2794 chunks (0.01%), ETA: 1533:56:45, Rate: 7.1 cps, Current: 63, 27
+[01Jan2025 23:49:57.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2964 chunks (0.01%), ETA: 1453:11:06, Rate: 7.5 cps, Current: 63, 23
+[01Jan2025 23:49:58.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2969 chunks (0.01%), ETA: 1520:11:58, Rate: 7.1 cps, Current: 56, -31
+[01Jan2025 23:50:00.062] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 2983 chunks (0.01%), ETA: 1564:09:02, Rate: 6.9 cps, Current: 58, -25
+[01Jan2025 23:50:01.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3001 chunks (0.01%), ETA: 1451:03:06, Rate: 7.5 cps, Current: 59, -24
+[01Jan2025 23:50:02.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3010 chunks (0.01%), ETA: 1450:18:35, Rate: 7.5 cps, Current: 61, -25
+[01Jan2025 23:50:03.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 3019 chunks (0.01%), ETA: 1436:13:45, Rate: 7.6 cps, Current: 59, -29
+[01Jan2025 23:50:04.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6416 chunks (0.02%), ETA: 1467:04:00, Rate: 7.4 cps, Current: 61, -29
+[01Jan2025 23:50:06.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6425 chunks (0.02%), ETA: 1478:42:44, Rate: 7.3 cps, Current: -29, 57
+[01Jan2025 23:50:07.339] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6431 chunks (0.02%), ETA: 1506:40:19, Rate: 7.2 cps, Current: -30, 57
+[01Jan2025 23:50:07.823] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thechuch lost connection: Disconnected
+[01Jan2025 23:50:07.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch left the game
+[01Jan2025 23:50:07.824] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of thechuch
+[01Jan2025 23:50:07.824] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thechuch
+[01Jan2025 23:50:09.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6436 chunks (0.02%), ETA: 1594:14:58, Rate: 6.8 cps, Current: 62, -15
+[01Jan2025 23:50:10.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6441 chunks (0.02%), ETA: 1622:46:10, Rate: 6.7 cps, Current: -31, 59
+[01Jan2025 23:50:11.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6459 chunks (0.02%), ETA: 1527:04:30, Rate: 7.1 cps, Current: -29, 60
+[01Jan2025 23:50:12.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6507 chunks (0.02%), ETA: 1393:22:43, Rate: 7.8 cps, Current: -24, 61
+[01Jan2025 23:50:13.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 6695 chunks (0.02%), ETA: 1323:09:01, Rate: 8.2 cps, Current: -17, 62
+[01Jan2025 23:50:14.961] [Chunky-minecraft:overworld Thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7525 chunks (0.02%), ETA: 1342:09:57, Rate: 8.1 cps, Current: 9, 62
+[01Jan2025 23:50:16.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7715 chunks (0.02%), ETA: 1344:58:21, Rate: 8.1 cps, Current: 60, -32
+[01Jan2025 23:50:17.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7729 chunks (0.02%), ETA: 1309:32:08, Rate: 8.3 cps, Current: -32, 56
+[01Jan2025 23:50:18.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7738 chunks (0.02%), ETA: 1282:10:13, Rate: 8.5 cps, Current: 20, 61
+[01Jan2025 23:50:20.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7775 chunks (0.02%), ETA: 1275:39:04, Rate: 8.5 cps, Current: -32, 63
+[01Jan2025 23:50:21.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7787 chunks (0.02%), ETA: 1264:14:13, Rate: 8.6 cps, Current: 24, 61
+[01Jan2025 23:50:22.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7796 chunks (0.02%), ETA: 1373:43:29, Rate: 7.9 cps, Current: 27, 58
+[01Jan2025 23:50:23.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7805 chunks (0.02%), ETA: 1353:30:56, Rate: 8.0 cps, Current: 29, 62
+[01Jan2025 23:50:25.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 7811 chunks (0.02%), ETA: 1336:41:12, Rate: 8.1 cps, Current: -25, 63
+[01Jan2025 23:50:27.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8314 chunks (0.02%), ETA: 1314:03:26, Rate: 8.3 cps, Current: 46, 46
+[01Jan2025 23:50:28.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8439 chunks (0.02%), ETA: 1254:51:55, Rate: 8.6 cps, Current: 12, 63
+[01Jan2025 23:50:29.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8446 chunks (0.02%), ETA: 1250:05:44, Rate: 8.7 cps, Current: 38, 53
+[01Jan2025 23:50:30.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8467 chunks (0.02%), ETA: 1257:35:24, Rate: 8.6 cps, Current: 19, 63
+[01Jan2025 23:50:31.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8476 chunks (0.02%), ETA: 1257:27:51, Rate: 8.6 cps, Current: 31, 57
+[01Jan2025 23:50:32.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8488 chunks (0.02%), ETA: 1238:31:11, Rate: 8.8 cps, Current: 31, 61
+[01Jan2025 23:50:33.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8498 chunks (0.02%), ETA: 1235:39:22, Rate: 8.8 cps, Current: 34, 61
+[01Jan2025 23:50:34.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8506 chunks (0.02%), ETA: 1219:45:33, Rate: 8.9 cps, Current: 35, 60
+[01Jan2025 23:50:35.832] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8511 chunks (0.02%), ETA: 1234:44:08, Rate: 8.8 cps, Current: 37, 61
+[01Jan2025 23:50:36.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8523 chunks (0.02%), ETA: 1200:38:52, Rate: 9.0 cps, Current: 37, 56
+[01Jan2025 23:50:37.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8532 chunks (0.02%), ETA: 1148:12:29, Rate: 9.5 cps, Current: 21, 63
+[01Jan2025 23:50:39.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8540 chunks (0.02%), ETA: 1163:19:12, Rate: 9.3 cps, Current: 39, 56
+[01Jan2025 23:50:40.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8548 chunks (0.02%), ETA: 1189:57:23, Rate: 9.1 cps, Current: 42, 57
+[01Jan2025 23:50:41.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8558 chunks (0.02%), ETA: 1274:42:53, Rate: 8.5 cps, Current: 41, 59
+[01Jan2025 23:50:43.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8568 chunks (0.02%), ETA: 1332:06:07, Rate: 8.1 cps, Current: 42, 59
+[01Jan2025 23:50:44.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8576 chunks (0.02%), ETA: 1325:22:14, Rate: 8.2 cps, Current: 44, 61
+[01Jan2025 23:50:45.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8579 chunks (0.02%), ETA: 1348:55:40, Rate: 8.0 cps, Current: 45, 60
+[01Jan2025 23:50:46.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8590 chunks (0.02%), ETA: 1333:31:25, Rate: 8.1 cps, Current: 44, 56
+[01Jan2025 23:50:47.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8594 chunks (0.02%), ETA: 1372:13:24, Rate: 7.9 cps, Current: 46, 56
+[01Jan2025 23:50:48.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8601 chunks (0.02%), ETA: 1382:17:08, Rate: 7.9 cps, Current: 46, 54
+[01Jan2025 23:50:49.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8611 chunks (0.02%), ETA: 1362:49:30, Rate: 8.0 cps, Current: 44, 54
+[01Jan2025 23:50:50.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8652 chunks (0.02%), ETA: 1221:19:27, Rate: 8.9 cps, Current: 45, 51
+[01Jan2025 23:50:51.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8664 chunks (0.02%), ETA: 1210:14:22, Rate: 9.0 cps, Current: 47, 50
+[01Jan2025 23:50:52.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8667 chunks (0.02%), ETA: 1222:34:30, Rate: 8.9 cps, Current: 47, 48
+[01Jan2025 23:50:54.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8682 chunks (0.02%), ETA: 1214:12:48, Rate: 8.9 cps, Current: 49, 49
+[01Jan2025 23:50:56.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8692 chunks (0.02%), ETA: 1219:49:47, Rate: 8.9 cps, Current: 33, 63
+[01Jan2025 23:50:57.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8703 chunks (0.02%), ETA: 1247:08:10, Rate: 8.7 cps, Current: 47, 53
+[01Jan2025 23:50:58.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8717 chunks (0.02%), ETA: 1217:31:26, Rate: 8.9 cps, Current: 52, 54
+[01Jan2025 23:50:59.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8733 chunks (0.02%), ETA: 1202:39:08, Rate: 9.0 cps, Current: 48, 57
+[01Jan2025 23:51:00.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8743 chunks (0.02%), ETA: 1200:24:25, Rate: 9.0 cps, Current: 47, 60
+[01Jan2025 23:51:01.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8753 chunks (0.02%), ETA: 1213:27:18, Rate: 8.9 cps, Current: 50, 59
+[01Jan2025 23:51:03.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8763 chunks (0.02%), ETA: 1221:25:05, Rate: 8.9 cps, Current: 51, 60
+[01Jan2025 23:51:04.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8767 chunks (0.02%), ETA: 1240:04:19, Rate: 8.8 cps, Current: 53, 61
+[01Jan2025 23:51:05.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8781 chunks (0.02%), ETA: 1191:25:21, Rate: 9.1 cps, Current: 54, 55
+[01Jan2025 23:51:07.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8789 chunks (0.02%), ETA: 1247:23:42, Rate: 8.7 cps, Current: 34, 63
+[01Jan2025 23:51:08.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8800 chunks (0.02%), ETA: 1223:25:35, Rate: 8.9 cps, Current: 56, 58
+[01Jan2025 23:51:09.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8809 chunks (0.02%), ETA: 1207:18:22, Rate: 9.0 cps, Current: 56, 61
+[01Jan2025 23:51:10.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8819 chunks (0.02%), ETA: 1220:12:38, Rate: 8.9 cps, Current: 40, 63
+[01Jan2025 23:51:13.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8827 chunks (0.02%), ETA: 1277:48:01, Rate: 8.5 cps, Current: 44, 63
+[01Jan2025 23:51:14.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8837 chunks (0.02%), ETA: 1240:29:10, Rate: 8.7 cps, Current: 62, 60
+[01Jan2025 23:51:15.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8849 chunks (0.02%), ETA: 1241:34:14, Rate: 8.7 cps, Current: 62, 58
+[01Jan2025 23:51:16.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8860 chunks (0.02%), ETA: 1214:53:52, Rate: 8.9 cps, Current: 60, 54
+[01Jan2025 23:51:18.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8885 chunks (0.02%), ETA: 1141:25:45, Rate: 9.5 cps, Current: 48, 48
+[01Jan2025 23:51:19.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8906 chunks (0.02%), ETA: 1097:45:42, Rate: 9.9 cps, Current: 59, 49
+[01Jan2025 23:51:20.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8921 chunks (0.02%), ETA: 1197:10:56, Rate: 9.1 cps, Current: 61, 48
+[01Jan2025 23:51:21.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8934 chunks (0.02%), ETA: 1188:26:23, Rate: 9.1 cps, Current: 61, 45
+[01Jan2025 23:51:22.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8944 chunks (0.02%), ETA: 1154:57:45, Rate: 9.4 cps, Current: 61, 41
+[01Jan2025 23:51:23.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8956 chunks (0.02%), ETA: 1132:33:36, Rate: 9.6 cps, Current: 58, 41
+[01Jan2025 23:51:24.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8971 chunks (0.02%), ETA: 1112:22:17, Rate: 9.8 cps, Current: 59, 47
+[01Jan2025 23:51:25.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8985 chunks (0.02%), ETA: 1096:01:07, Rate: 9.9 cps, Current: 56, 45
+[01Jan2025 23:51:26.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 8998 chunks (0.02%), ETA: 1081:19:02, Rate: 10.0 cps, Current: 53, 45
+[01Jan2025 23:51:27.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9014 chunks (0.02%), ETA: 1069:10:48, Rate: 10.1 cps, Current: 49, 45
+[01Jan2025 23:51:28.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9038 chunks (0.02%), ETA: 1052:38:47, Rate: 10.3 cps, Current: 51, 42
+[01Jan2025 23:51:30.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9103 chunks (0.02%), ETA: 1007:37:57, Rate: 10.8 cps, Current: 54, 40
+[01Jan2025 23:51:31.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9118 chunks (0.02%), ETA: 992:14:08, Rate: 10.9 cps, Current: 57, 33
+[01Jan2025 23:51:32.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9133 chunks (0.02%), ETA: 973:38:09, Rate: 11.1 cps, Current: 57, 40
+[01Jan2025 23:51:33.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9151 chunks (0.02%), ETA: 934:01:58, Rate: 11.6 cps, Current: 59, 37
+[01Jan2025 23:51:34.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9164 chunks (0.02%), ETA: 934:59:22, Rate: 11.6 cps, Current: 61, 40
+[01Jan2025 23:51:35.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9186 chunks (0.02%), ETA: 868:44:26, Rate: 12.5 cps, Current: 63, 33
+[01Jan2025 23:51:36.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9201 chunks (0.02%), ETA: 866:04:33, Rate: 12.5 cps, Current: 66, 33
+[01Jan2025 23:51:38.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9210 chunks (0.02%), ETA: 877:46:16, Rate: 12.4 cps, Current: 67, 37
+[01Jan2025 23:51:38.837] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[01Jan2025 23:51:38.838] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[01Jan2025 23:51:38.838] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[01Jan2025 23:51:38.838] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[01Jan2025 23:51:38.838] [Worker-Main-38/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[01Jan2025 23:51:38.925] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[01Jan2025 23:51:38.926] [Worker-Main-39/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[01Jan2025 23:51:39.156] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9214 chunks (0.02%), ETA: 891:46:29, Rate: 12.2 cps, Current: 69, 38
+[01Jan2025 23:51:40.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9228 chunks (0.02%), ETA: 864:31:15, Rate: 12.6 cps, Current: 67, 33
+[01Jan2025 23:51:41.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9234 chunks (0.02%), ETA: 830:13:18, Rate: 13.1 cps, Current: 63, 62
+[01Jan2025 23:51:42.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9246 chunks (0.02%), ETA: 832:48:35, Rate: 13.0 cps, Current: 63, 49
+[01Jan2025 23:51:44.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9260 chunks (0.02%), ETA: 852:51:53, Rate: 12.7 cps, Current: 72, 33
+[01Jan2025 23:51:45.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9264 chunks (0.02%), ETA: 865:54:33, Rate: 12.5 cps, Current: 74, 34
+[01Jan2025 23:51:46.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9269 chunks (0.02%), ETA: 885:57:25, Rate: 12.2 cps, Current: 75, 35
+[01Jan2025 23:51:48.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9278 chunks (0.02%), ETA: 953:45:21, Rate: 11.4 cps, Current: 77, 35
+[01Jan2025 23:51:49.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9283 chunks (0.02%), ETA: 976:01:57, Rate: 11.1 cps, Current: 76, 33
+[01Jan2025 23:51:50.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9296 chunks (0.02%), ETA: 970:46:36, Rate: 11.2 cps, Current: 78, 35
+[01Jan2025 23:51:52.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9301 chunks (0.02%), ETA: 1042:15:12, Rate: 10.4 cps, Current: 65, 39
+[01Jan2025 23:51:54.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9308 chunks (0.02%), ETA: 1089:23:18, Rate: 10.0 cps, Current: 72, 38
+[01Jan2025 23:51:55.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9317 chunks (0.02%), ETA: 1106:06:54, Rate: 9.8 cps, Current: 76, 38
+[01Jan2025 23:51:56.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9332 chunks (0.02%), ETA: 1128:24:29, Rate: 9.6 cps, Current: 76, 42
+[01Jan2025 23:51:57.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9338 chunks (0.02%), ETA: 1203:16:38, Rate: 9.0 cps, Current: 78, 40
+[01Jan2025 23:51:59.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9345 chunks (0.02%), ETA: 1288:47:29, Rate: 8.4 cps, Current: 77, 45
+[01Jan2025 23:52:00.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9353 chunks (0.02%), ETA: 1291:12:25, Rate: 8.4 cps, Current: 75, 43
+[01Jan2025 23:52:01.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9363 chunks (0.02%), ETA: 1314:03:14, Rate: 8.3 cps, Current: 74, 46
+[01Jan2025 23:52:02.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9370 chunks (0.02%), ETA: 1357:13:14, Rate: 8.0 cps, Current: 69, 45
+[01Jan2025 23:52:03.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9380 chunks (0.02%), ETA: 1406:38:43, Rate: 7.7 cps, Current: 71, 43
+[01Jan2025 23:52:04.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9394 chunks (0.02%), ETA: 1407:10:45, Rate: 7.7 cps, Current: 68, 42
+[01Jan2025 23:52:05.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9417 chunks (0.02%), ETA: 1399:48:11, Rate: 7.8 cps, Current: 67, 46
+[01Jan2025 23:52:06.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9435 chunks (0.02%), ETA: 1385:18:13, Rate: 7.8 cps, Current: 65, 47
+[01Jan2025 23:52:07.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9451 chunks (0.02%), ETA: 1337:06:58, Rate: 8.1 cps, Current: 70, 48
+[01Jan2025 23:52:08.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9460 chunks (0.02%), ETA: 1305:55:08, Rate: 8.3 cps, Current: 67, 51
+[01Jan2025 23:52:09.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9466 chunks (0.02%), ETA: 1350:54:10, Rate: 8.0 cps, Current: 68, 52
+[01Jan2025 23:52:11.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9470 chunks (0.02%), ETA: 1401:20:35, Rate: 7.7 cps, Current: 70, 53
+[01Jan2025 23:52:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9474 chunks (0.02%), ETA: 1406:09:25, Rate: 7.7 cps, Current: 68, 53
+[01Jan2025 23:52:13.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9501 chunks (0.02%), ETA: 1294:20:10, Rate: 8.4 cps, Current: 66, 57
+[01Jan2025 23:52:14.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9514 chunks (0.02%), ETA: 1272:18:33, Rate: 8.5 cps, Current: 65, 59
+[01Jan2025 23:52:15.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9527 chunks (0.02%), ETA: 1225:28:55, Rate: 8.9 cps, Current: 67, 60
+[01Jan2025 23:52:16.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9532 chunks (0.02%), ETA: 1225:56:02, Rate: 8.9 cps, Current: 67, 62
+[01Jan2025 23:52:18.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9554 chunks (0.02%), ETA: 1166:25:04, Rate: 9.3 cps, Current: 71, 55
+[01Jan2025 23:52:19.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9566 chunks (0.02%), ETA: 1172:12:11, Rate: 9.3 cps, Current: 73, 47
+[01Jan2025 23:52:20.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9574 chunks (0.02%), ETA: 1112:54:47, Rate: 9.8 cps, Current: 71, 60
+[01Jan2025 23:52:21.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9589 chunks (0.02%), ETA: 1095:37:34, Rate: 9.9 cps, Current: 75, 47
+[01Jan2025 23:52:23.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9592 chunks (0.02%), ETA: 1092:29:55, Rate: 9.9 cps, Current: 74, 59
+[01Jan2025 23:52:24.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9598 chunks (0.02%), ETA: 1117:04:14, Rate: 9.7 cps, Current: 74, 61
+[01Jan2025 23:52:25.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9602 chunks (0.02%), ETA: 1136:40:32, Rate: 9.5 cps, Current: 77, 61
+[01Jan2025 23:52:26.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9616 chunks (0.02%), ETA: 1130:00:08, Rate: 9.6 cps, Current: 76, 62
+[01Jan2025 23:52:27.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9620 chunks (0.02%), ETA: 1142:37:40, Rate: 9.5 cps, Current: 78, 54
+[01Jan2025 23:52:28.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Chunky] Task running for minecraft:overworld. Processed: 9628 chunks (0.02%), ETA: 1136:59:58, Rate: 9.5 cps, Current: 78, 53
