@@ -1,0 +1,7 @@
+
+#Common Settings
+[common]
+	enabledItems = ["sophisticatedbackpacks:pump_upgrade|true", "sophisticatedbackpacks:tool_swapper_upgrade|true"]
+
+sophisticatedbackpacks:feeding_upgrade|true"]
+
