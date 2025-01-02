@@ -8107,3 +8107,82 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [02Jan2025 17:33:27.865] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [02Jan2025 17:38:27.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [02Jan2025 17:38:27.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:40:40.707] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element minecraft:desert took 10620 ms
+[02Jan2025 17:40:40.707] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10612ms or 212 ticks behind
+[02Jan2025 17:40:44.235] [Worker-Main-59/DEBUG] [mixin/]: Mixing IMixinStructurePiecesBuilder from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pieces.StructurePiecesBuilder
+[02Jan2025 17:40:44.241] [Worker-Main-59/DEBUG] [mixin/]: Mixing IMixinJigsawPlacement from witherstormmod.mixins.json into net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement
+[02Jan2025 17:40:44.242] [Worker-Main-59/DEBUG] [mixin/]: Renaming @Invoker method invokeAddPieces(Lnet/minecraft/world/level/levelgen/RandomState;IZLnet/minecraft/world/level/chunk/ChunkGenerator;Lnet/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplateManager;Lnet/minecraft/world/level/LevelHeightAccessor;Lnet/minecraft/util/RandomSource;Lnet/minecraft/core/Registry;Lnet/minecraft/world/level/levelgen/structure/PoolElementStructurePiece;Ljava/util/List;Lnet/minecraft/world/phys/shapes/VoxelShape;)V to invokeAddPieces_$md$6e4e95$0 in witherstormmod.mixins.json:IMixinJigsawPlacement
+[02Jan2025 17:40:46.466] [Worker-Main-59/DEBUG] [mixin/]: Mixing accessor.WorldGenRegionAccessor from betterfortresses.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jan2025 17:40:46.467] [Worker-Main-59/DEBUG] [mixin/]: Mixing WorldGenRegionAccessor from cataclysm.mixins.json into net.minecraft.server.level.WorldGenRegion
+[02Jan2025 17:40:46.469] [Worker-Main-59/DEBUG] [mixin/]: Unexpected: Registered method getStructureManager()Lnet/minecraft/world/level/StructureManager; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 17:40:46.469] [Worker-Main-59/DEBUG] [mixin/]: Unexpected: Registered method getLastPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 17:40:46.469] [Worker-Main-59/DEBUG] [mixin/]: Unexpected: Registered method getFirstPos()Lnet/minecraft/world/level/ChunkPos; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 17:40:46.469] [Worker-Main-59/DEBUG] [mixin/]: Unexpected: Registered method getCache()Ljava/util/List; in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 17:40:46.469] [Worker-Main-59/DEBUG] [mixin/]: Unexpected: Registered method getSize()I in net.minecraft.server.level.WorldGenRegion was not merged
+[02Jan2025 17:40:46.519] [Worker-Main-50/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jan2025 17:40:46.535] [Worker-Main-50/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jan2025 17:40:46.536] [Worker-Main-50/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from cataclysm.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[02Jan2025 17:40:46.552] [Worker-Main-50/DEBUG] [mixin/]: Unexpected: Registered method getPieceIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[02Jan2025 17:40:46.552] [Worker-Main-50/DEBUG] [mixin/]: Unexpected: Registered method getJunctionIterator()Lit/unimi/dsi/fastutil/objects/ObjectListIterator; in net.minecraft.world.level.levelgen.Beardifier was not merged
+[02Jan2025 17:40:48.748] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[02Jan2025 17:40:48.748] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[02Jan2025 17:40:48.748] [Worker-Main-59/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-55 absolute--60 absolute]
+[02Jan2025 17:40:51.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Teleported thechuch to -2362.500000, 99.000000, -3377.500000]
+[02Jan2025 17:43:01.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Spectator Mode]
+[02Jan2025 17:43:02.021] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:43:13.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Spectator Mode]
+[02Jan2025 17:43:15.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:43:21.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 17:43:32.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:43:35.813] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 17:43:38.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 17:43:38.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:44:03.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:44:14.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 17:45:18.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Stirring the Sands]
+[02Jan2025 17:45:57.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Cursed Pyramid]
+[02Jan2025 17:46:05.018] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgeEventHandler@7affd4e3 for service interface com.blamejared.clumps.platform.IEventHelper
+[02Jan2025 17:46:05.018] [Server thread/DEBUG] [clumps/]: Loaded com.blamejared.clumps.platform.ForgePlatformHelper@4a21025e for service interface com.blamejared.clumps.platform.IPlatformHelper
+[02Jan2025 17:46:25.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Needs More Speeeeed!]
+[02Jan2025 17:46:27.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has completed the challenge [Overkill]
+[02Jan2025 17:47:44.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:47:46.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 17:48:23.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:48:38.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 17:48:38.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:48:54.881] [Server thread/DEBUG] [mixin/]: Mixing entity.PiglinAiMixin from mixins.netherexp.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jan2025 17:48:54.883] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[02Jan2025 17:53:38.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 17:53:38.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:55:00.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Spectator Mode]
+[02Jan2025 17:55:23.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:55:46.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Spectator Mode]
+[02Jan2025 17:56:23.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:58:38.434] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 17:58:38.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 17:59:05.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Spectator Mode]
+[02Jan2025 17:59:06.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 17:59:08.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 17:59:27.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [To Infinity and Beyond]
+[02Jan2025 18:02:26.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [One Small Step]
+[02Jan2025 18:02:28.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of thechuch) moved too quickly! 0.5,29.19234400112998,0.5
+[02Jan2025 18:02:28.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of thechuch) moved too quickly! 0.5,30.14734328110592,0.5
+[02Jan2025 18:02:28.717] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[02Jan2025 18:03:13.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 18:03:16.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 18:03:23.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 18:03:25.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 18:03:40.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:03:40.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:04:09.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Astronaut]
+[02Jan2025 18:04:17.850] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Survival Mode]
+[02Jan2025 18:04:31.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 18:06:21.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Unconventional Flight]
+[02Jan2025 18:08:40.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:08:40.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:13:40.474] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:13:40.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Jan2025 18:18:00.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Take a Deep Breath]
+[02Jan2025 18:18:24.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Green Energy]
+[02Jan2025 18:18:40.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Jan2025 18:18:40.482] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
