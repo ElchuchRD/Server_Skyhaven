@@ -773,3 +773,5 @@
 [02Jan2025 18:40:11.867] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thechuch (172e835a-d3c7-310a-b4ea-c1b0b083acd4) successfully connected to voice chat
 [02Jan2025 18:40:15.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Adventure Mode]
 [02Jan2025 18:40:16.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
+[02Jan2025 18:42:12.558] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of thechuch) moved too quickly! -56.5,111.47851396684962,24.5
+[02Jan2025 18:42:12.559] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lander (vehicle of thechuch) moved too quickly! -56.5,112.47524364402011,24.5
