@@ -465,3 +465,7 @@
 [02Jan2025 16:33:53.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set own game mode to Creative Mode]
 [02Jan2025 16:36:46.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Acquire Hardware]
 [02Jan2025 16:36:52.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch has made the advancement [Bonk!]
+[02Jan2025 16:48:20.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Set the weather to clear]
+[02Jan2025 16:56:47.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thechuch lost connection: Disconnected
+[02Jan2025 16:56:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch left the game
+[02Jan2025 16:56:47.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thechuch
