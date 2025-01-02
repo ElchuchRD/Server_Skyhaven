@@ -37,9 +37,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:river": "2025-01-02 00:11:43 +0000",
       "minecraft:plains": "2025-01-01 23:16:03 +0000"
     },
     "done": false
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2025-01-02 00:11:39 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
