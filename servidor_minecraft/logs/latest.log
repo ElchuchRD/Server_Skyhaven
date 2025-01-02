@@ -469,3 +469,27 @@
 [02Jan2025 16:56:47.815] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: thechuch lost connection: Disconnected
 [02Jan2025 16:56:47.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch left the game
 [02Jan2025 16:56:47.823] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client thechuch
+[02Jan2025 17:16:56.066] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[02Jan2025 17:16:56.127] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[02Jan2025 17:16:56.194] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[02Jan2025 17:16:56.273] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[02Jan2025 17:16:56.392] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[02Jan2025 17:16:56.438] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[02Jan2025 17:16:56.489] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[02Jan2025 17:16:56.501] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[02Jan2025 17:16:56.595] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[02Jan2025 17:16:56.595] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[02Jan2025 17:16:56.806] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[02Jan2025 17:16:56.806] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[02Jan2025 17:16:57.002] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[02Jan2025 17:16:57.042] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[02Jan2025 17:16:57.042] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[02Jan2025 17:16:57.042] [Netty Epoll Server IO #7/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[02Jan2025 17:17:02.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: thechuch[/127.216.22.88:37821] logged in with entity id 5338 at (161.0660526977455, 76.49360641478314, -732.9811316908691)
+[02Jan2025 17:17:03.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch joined the game
+[02Jan2025 17:17:03.140] [Server thread/INFO] [tannyjung.tht.ThtMod/]: THT : Run a test to get world height limit and the result is 320.0
+[02Jan2025 17:17:04.237] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of thechuch (18)
+[02Jan2025 17:17:04.238] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to thechuch
+[02Jan2025 17:17:08.753] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 172e835a-d3c7-310a-b4ea-c1b0b083acd4
+[02Jan2025 17:17:09.890] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 172e835a-d3c7-310a-b4ea-c1b0b083acd4
+[02Jan2025 17:17:09.891] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player thechuch (172e835a-d3c7-310a-b4ea-c1b0b083acd4) successfully connected to voice chat
