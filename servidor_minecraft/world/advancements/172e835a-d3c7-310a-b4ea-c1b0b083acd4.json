@@ -1318,6 +1318,12 @@
     },
     "done": true
   },
+  "ad_astra:gravity_normalizer": {
+    "criteria": {
+      "has_gravity_normalizer": "2025-01-02 18:29:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-01-02 17:48:01 +0000"
