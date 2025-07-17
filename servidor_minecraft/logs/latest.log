@@ -106,3 +106,4 @@
 [17Jul2025 16:41:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: thechuch was blown up by Creeper
 [17Jul2025 16:41:13.714] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for thechuch with unique ID travelersbackpack.standard_17.07.2025-16.41.13.dat
 [17Jul2025 16:41:20.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [thechuch: Teleported thechuch to -2047.500000, 103.500000, 953.500000]
+[17Jul2025 16:50:27.834] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/10063, l='ServerLevel[world]', x=-2540.71, y=106.00, z=935.35] died, message: 'Farmer was turned into KFC by Fire Dragon'
